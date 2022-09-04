@@ -1,0 +1,34 @@
+A programmer is a person who passes as an exacting expert on the basis of being able to turn out, 
+after innumerable punching, an infinite series of incomprehensive answers calculated with micrometric 
+precisions from vague assumptions based on debatable figures taken from inconclusive documents 
+and carried out on instruments of problematical accuracy by persons of dubious reliability and questionable 
+mentality for the avowed purpose of annoying and confounding a hopelessly defenseless department 
+that was unfortunate enough to ask for the information in the first place. (IEEE Grid newsmagazine) 
+In C++ it’s harder to shoot yourself in the foot,
+
+
+ but when you do, you blow off your whole leg. 
+(Bjarne Stroustrup) The best thing about a boolean is even if you are wrong, you are only off by a bit. 
+(Anonymous) Any code of your own that you haven’t looked at for six or more months might as well have been 
+written by someone else. (Eagleson’s Law) Microsoft has a new version out, Windows XP, which according to everybody 
+is the ‘most reliable Windows ever.’ 
+To me, this is like saying that asparagus is ‘the most articulate vegetable ever.’ (Dave Barry)
+
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat
+
+
+ but when you do, you blow off your whole leg. 
+(Bjarne Stroustrup) The best thing about a boolean is even if you are wrong, you are only off by a bit. 
+(Anonymous) Any code of your own that you haven’t looked at for six or more months might as well have been 
+written by someone else. (Eagleson’s Law) Microsoft has a new version out, Windows XP, which according to everybody 
+is the ‘most reliable Windows ever.’ 
+To me, this is like saying that asparagus is ‘the most articulate vegetable ever.’ (Dave Barry)
+
+
+ but when you do, you blow off your whole leg. 
+(Bjarne Stroustrup) The best thing about a boolean is even if you are wrong, you are only off by a bit. 
+(Anonymous) Any code of your own that you haven’t looked at for six or more months might as well have been 
+written by someone else. (Eagleson’s Law) Microsoft has a new version out, Windows XP, which according to everybody 
+is the ‘most reliable Windows ever.’ 
+To me, this is like saying that asparagus is ‘the most articulate vegetable ever.’ (Dave Barry)

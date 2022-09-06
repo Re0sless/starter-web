@@ -12,4 +12,6 @@ This is a simple project from the git tranning course, i'll delete it when I'm d
 
 ## Deployment
 
+No need to deploy it, its just a demo project
+
 ## How to

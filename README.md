@@ -14,4 +14,6 @@ This is a simple project from the git tranning course, i'll delete it when I'm d
 
 No need to deploy it, its just a demo project
 
-## How to
+## How to use
+
+You dont need to use it, one more change

@@ -17,3 +17,7 @@ No need to deploy it, its just a demo project
 ## How to use
 
 You dont need to use it, one more change
+
+### Copywrite
+
+2022, Git.Tranning

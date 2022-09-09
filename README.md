@@ -16,7 +16,7 @@ No need to deploy it, its just a demo project
 
 ## How to use
 
-You dont need to use it, one more change
+You dont need to use it, one more change, please fork this and issue a pull request for review
 
 ### Copywrite
 

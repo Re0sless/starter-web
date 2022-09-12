@@ -22,4 +22,4 @@ You dont need to use it, one more change, please fork this and issue a pull requ
 
 ### Copywrite
 
-2022, Git.Tranning
+2022, Git.Tranning. All rights reserved
